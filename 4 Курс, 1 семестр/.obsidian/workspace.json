@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "c6d659d8286fb970",
+    "type": "split",
+    "children": [
+      {
+        "id": "10636df32ab601c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663a11af1460a89b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Квантовая и оптическая электроника/КиОЭ_Лекция_7_(18.10.22).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2629a5e75fa34bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "315796ef66b8383c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0320a506367f920f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc9dba36a451f7f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df7af3d02c80ca68",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5068016052246
+  },
+  "right": {
+    "id": "394f4423694606f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "29703034e1996123",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1b1ee0e796e46a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Квантовая и оптическая электроника/КиОЭ_Лекция_7_(18.10.22).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39b512bcf0c5b175",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Квантовая и оптическая электроника/КиОЭ_Лекция_7_(18.10.22).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27b8e3aeff6bc486",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85a47b1be9c78791",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Квантовая и оптическая электроника/КиОЭ_Лекция_7_(18.10.22).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "663a11af1460a89b",
+  "lastOpenFiles": [
+    "18.10.22.3КиОЭ.png",
+    "18.10.22.2КиОЭ.png",
+    "Квантовая и оптическая электроника/КиОЭ_Лекция_7_(18.10.22).md",
+    "Сети и Системы Передачи Информации/ССПИ_Лекция_6_(06.10.22).md",
+    "Криптографические методы защиты информации/КМЗИ_Лекция_2_(20.09.22).md",
+    "Электроника и схемотехника/Misc/Pasted image 20221002115756.png",
+    "18.10.22.2КиОЭ.png.md",
+    "Квантовая и оптическая электроника/КиОЭ_Лекция_6_(11.10.22).md",
+    "18.10.22.1КиОЭ.png",
+    "Квантовая и оптическая электроника/Misc/20.09.22.4КиОЭ(3.4).png"
+  ]
+}
